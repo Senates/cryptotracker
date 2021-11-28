@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoTracker.Android", "CryptoTracker.Android\CryptoTracker.Android.csproj", "{1B23DDF2-8D9A-401E-A8F7-51FE91AC4E05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker", "CryptoTracker\CryptoTracker.csproj", "{B609A62F-8B7C-44EA-8D29-1247FEB187EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITest1", "UITest1\UITest1.csproj", "{67A02C26-6104-4E44-99F1-B664A798B251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B23DDF2-8D9A-401E-A8F7-51FE91AC4E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B23DDF2-8D9A-401E-A8F7-51FE91AC4E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B23DDF2-8D9A-401E-A8F7-51FE91AC4E05}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1B23DDF2-8D9A-401E-A8F7-51FE91AC4E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B23DDF2-8D9A-401E-A8F7-51FE91AC4E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B23DDF2-8D9A-401E-A8F7-51FE91AC4E05}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B609A62F-8B7C-44EA-8D29-1247FEB187EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B609A62F-8B7C-44EA-8D29-1247FEB187EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B609A62F-8B7C-44EA-8D29-1247FEB187EF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B609A62F-8B7C-44EA-8D29-1247FEB187EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B609A62F-8B7C-44EA-8D29-1247FEB187EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B609A62F-8B7C-44EA-8D29-1247FEB187EF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{67A02C26-6104-4E44-99F1-B664A798B251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A02C26-6104-4E44-99F1-B664A798B251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A02C26-6104-4E44-99F1-B664A798B251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A02C26-6104-4E44-99F1-B664A798B251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3926DE32-6F4F-45A0-8DE8-E0DE914D4BA3}
+	EndGlobalSection
+EndGlobal
